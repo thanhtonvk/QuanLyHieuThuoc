@@ -1,0 +1,3 @@
+100000#ACT 15mg/500mg N/A#Thuốc chống dị ứng#viên#PIOGLITAZONE -1#không
+100001#ACTOPLUS-MET15mg/850mg#Thuốc chống dị ứng#viên#PIOGLITAZONE -1#không
+100002#PARACETAMONL 500mg#Thuốc chống dị ứng#viên#PARACETAMONL 500mg#không
